@@ -1,7 +1,7 @@
 <?php
 class Database {
     private static $host = "localhost";
-    private static $db_name = "babyboss_db";
+    private static $db_name = "babyboss";
     private static $username = "root";
     private static $password = "";
     private static $conn;
